@@ -1,0 +1,3 @@
+ choice function requires a list
+ Classes are imported as the syntax = from "file name" import "class name"
+ def __repr__ lines after we use __str__
